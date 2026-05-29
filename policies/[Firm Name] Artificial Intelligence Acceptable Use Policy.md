@@ -55,8 +55,8 @@ As AI technology becomes more accessible, sophisticated financial scams—includ
 # Using this Document in your Firm
 
 * Please review this policy with appropriate legal counsel and your compliance advisor to ensure it meets your needs and reflects reality for your firm.
-* We recommend walking through how you use AI through a sample drafting session or screenshare with the client how you use it and verify it.
+* We recommend walking through how you use AI with a sample drafting session or screenshare with the client how you use it and verify it.
 * CFP® CE Credits? We will be hosting an approved webinar titled “Leveraging AI as a Fiduciary: Moving from Never Ending Chats into Personalized, Accurate, and Secure Advice”. [Sign up to be notified here.](https://417vxb.share-na2.hsforms.com/200WoG3hoRT2CzJ4U4MVFeg)
-* Download source document here <https://github.com/FinPodsAI/RIA-resources>
+* Download editable document here <https://github.com/FinPodsAI/RIA-resources/tree/main/policies>
 
 Copyright 2026: This work is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) by Fin Pods AI - A Public Benefit Corporation. If used with personal financial planning clients or as part of your policies and procedures no attribution or copyright notice is required
